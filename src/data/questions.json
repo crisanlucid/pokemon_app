@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Gorebyss",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Gorebyss_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "His body is durable enough to withstand high-pressure levels in the deep sea. Do not confuse with HBase, Couchbase, MeshBase, Graphbase or KirbyBase.",
+    "img": "gorebyss.png"
+  },
+  {
+    "name": "Space",
+    "url": "",
+    "type": 1,
+    "text": "A space is a content repository. Think of it as a place to keep all the content related to one project. Each space has its own content model, content base and users permissions.",
+    "img": "contentful.png"
+  },
+  {
+    "name": "Symbol field",
+    "url": "",
+    "type": 1,
+    "text": "A symbol field is the same as a short text field.",
+    "img": "contentful.png"
+  },
+  {
+    "name": "Geodude",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Geodude_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "Geodude is a hard rock pokemon immune to one hit ko, not like my Hadoop cluster. Unlike Geode which make you more confused about big data.",
+    "img": "geodude.jpg"
+  },
+    {
+      "name": "Fit",
+      "url": "#",
+      "type": 1,
+      "text": "To change the way your image responds to the w and h parameters, attach the fit parameter to the asset’s url",
+      "img": "contentful.png"
+    },
+  
+]
