@@ -27,12 +27,11 @@
     "text": "Geodude is a hard rock pokemon immune to one hit ko, not like my Hadoop cluster. Unlike Geode which make you more confused about big data.",
     "img": "geodude.jpg"
   },
-    {
-      "name": "Fit",
-      "url": "#",
-      "type": 1,
-      "text": "To change the way your image responds to the w and h parameters, attach the fit parameter to the asset’s url",
-      "img": "contentful.png"
-    },
-  
+  {
+    "name": "Fit",
+    "url": "#",
+    "type": 1,
+    "text": "To change the way your image responds to the w and h parameters, attach the fit parameter to the asset’s url",
+    "img": "contentful.png"
+  }
 ]
