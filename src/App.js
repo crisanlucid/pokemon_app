@@ -1,11 +1,9 @@
 import React, {useState, useEffect} from 'react';
-import axios from 'axios';
-import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Answer from './Answer';
-import EndScreen from './EndScreen';
-import Question from './Question';
-import SplashScreen from './SplashScreen';
+import Answer from './components/Answer';
+import EndScreen from './components/EndScreen';
+import Question from './components/Question';
+import SplashScreen from './components/SplashScreen';
 import data from './data/questions.json';
 
 var APP_STATES = {

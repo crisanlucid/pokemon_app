@@ -1,5 +1,5 @@
 import React from 'react';
-import {IS_POKEMON, POKEMON, COMPARE_TO} from './constants';
+import {IS_POKEMON, POKEMON, COMPARE_TO} from '../constants';
 
 const Answer = props => {
   const classes = {

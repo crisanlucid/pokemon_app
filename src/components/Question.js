@@ -1,5 +1,5 @@
 import React from 'react';
-import {IS_CONTENTFUL, IS_POKEMON, COMPARE_TO, POKEMON} from './constants';
+import {IS_CONTENTFUL, IS_POKEMON, COMPARE_TO, POKEMON} from '../constants';
 
 const Question = ({question, selectAnswer}) => {
   const selectBigDataAnswer = () => {

@@ -8,14 +8,14 @@
   },
   {
     "name": "Space",
-    "url": "",
+    "url": "https://www.contentful.com/faq/basics/#how-do-i-create-a-space",
     "type": 1,
     "text": "A space is a content repository. Think of it as a place to keep all the content related to one project. Each space has its own content model, content base and users permissions.",
     "img": "contentful.png"
   },
   {
     "name": "Symbol field",
-    "url": "",
+    "url": "https://www.contentful.com/faq/terminology/#what-is-a-symbol-field",
     "type": 1,
     "text": "A symbol field is the same as a short text field.",
     "img": "contentful.png"
@@ -29,7 +29,7 @@
   },
   {
     "name": "Fit",
-    "url": "#",
+    "url": "https://www.contentful.com/faq/basics/",
     "type": 1,
     "text": "To change the way your image responds to the w and h parameters, attach the fit parameter to the asset’s url",
     "img": "contentful.png"
